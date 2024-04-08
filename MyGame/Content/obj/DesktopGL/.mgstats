@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/VINICIUS/Documents/MONOGAME/MyGame/Content/asteroid.png","C:/Users/VINICIUS/Documents/MONOGAME/MyGame/Content/bin/DesktopGL/asteroid.xnb","TextureProcessor","Texture2DContent",17495,53893,0,1611093
+"C:/Users/VINICIUS/Documents/MONOGAME/MyGame/Content/ship.png","C:/Users/VINICIUS/Documents/MONOGAME/MyGame/Content/bin/DesktopGL/ship.xnb","TextureProcessor","Texture2DContent",3015,27285,0,0038479
+"C:/Users/VINICIUS/Documents/MONOGAME/MyGame/Content/space.png","C:/Users/VINICIUS/Documents/MONOGAME/MyGame/Content/bin/DesktopGL/space.xnb","TextureProcessor","Texture2DContent",1018006,12582997,0,4032053
+"C:/Users/VINICIUS/Documents/MONOGAME/MyGame/Content/spaceFont.spritefont","C:/Users/VINICIUS/Documents/MONOGAME/MyGame/Content/bin/DesktopGL/spaceFont.xnb","FontDescriptionProcessor","SpriteFontContent",2065,136223,0,1393636
+"C:/Users/VINICIUS/Documents/MONOGAME/MyGame/Content/timerFont.spritefont","C:/Users/VINICIUS/Documents/MONOGAME/MyGame/Content/bin/DesktopGL/timerFont.xnb","FontDescriptionProcessor","SpriteFontContent",2065,70687,0,0285472
